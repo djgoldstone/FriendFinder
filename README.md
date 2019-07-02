@@ -35,8 +35,9 @@ ___
 
 ![Friend Finder - home](images/home-screenshot.png)
 ![Friend Finder - survey](images/survey-screenshot.png)
-![Friend Finder - friends api](images/friends-screenshot.png)
 ![Friend Finder - result modal](images/result-modal-screenshot.png)
+![Friend Finder - friends api](images/friends-screenshot.png)
+
 
 
 
