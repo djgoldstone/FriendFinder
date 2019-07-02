@@ -1,6 +1,8 @@
 # FriendFinder
 
-[https://dudley-mountie-68927.herokuapp.com/](https://dudley-mountie-68927.herokuapp.com/)
+A compatibility-based "FriendFinder" application -- basically a dating app. This full-stack site will take in results from surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match.
+
+[Heroku Deployment](https://dudley-mountie-68927.herokuapp.com/)
 ___
 
 ### Design
@@ -31,10 +33,10 @@ ___
 ![Graph](images/graph.png)
 ___
 
-![Friend Finder - home](images/error-screenshot.png)
-![Friend Finder - survey](images/concert-this-screenshot.png)
-![Friend Finder - friend api](images/do-what-it-says-screenshot.png)
-![Friend Finder - result modal](images/movie-this-screenshot.png)
+![Friend Finder - home](images/home-screenshot.png)
+![Friend Finder - survey](images/survey-screenshot.png)
+![Friend Finder - friends api](images/friends-screenshot.png)
+![Friend Finder - result modal](images/result-modal-screenshot.png)
 
 
 
