@@ -4,6 +4,7 @@ ___
 
 ### Design
 
+Friend Finder makes use of Twitter's Bootstrap cdn and Font Awesome in order to create an engaging and ordered user interface. User inputs are collected in forms with distinct ids and the result of the friend finder algorithm displayd as a bootstrap modal. Font Awesome's glyphicons provide the icon images seen on the survey page.
 
 
 ### Logic
