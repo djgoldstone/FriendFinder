@@ -39,7 +39,7 @@ app.post("/api/friends", function(req,res) {
         //outer loop iterates through friends array of objects to obtain each friend score
         var currentDiff = 0;
         for (var j = 0; j < friends[i].scores.length; j++) {
-            //inner loops iterates through friend score and user score to calculate absolute difference using Math.abs
+            //inner loop iterates through friend score and user score to calculate absolute difference using Math.abs
             currentDiff += Math.abs(friends[i].scores[j] - scores[j]);
         }
         if (currentDiff <= match.difference) {
